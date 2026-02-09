@@ -98,8 +98,8 @@ public class TuMiz : BackendDeveloper
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TranMinh0903&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranMinh0903&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TranMinh0903&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranMinh0903&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </p>
 
 ---
@@ -115,7 +115,7 @@ public class TuMiz : BackendDeveloper
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TranMinh0903&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=TranMinh0903&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -126,13 +126,6 @@ public class TuMiz : BackendDeveloper
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TranMinh0903&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TranMinh0903/TranMinh0903/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
 
 ---
 
