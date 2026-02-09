@@ -6,7 +6,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+TuMiz;Backend+Developer+%7C+C%23+.NET+Enthusiast;FPT+University+Student;Building+cool+things+with+code+%E2%98%95" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Tu%E1%BA%A5n+Minh;Backend+Developer+%7C+C%23+.NET+Enthusiast;FPT+University+Student;Building+cool+things+with+code+%E2%98%95" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 ```csharp
 public class TuMiz : BackendDeveloper
 {
-    public string Name => "Tran Hoang Minh";
+    public string Name => "Tran Hoang Tuan Minh";
     public string Location => "Vung Tau City, Vietnam 🇻🇳";
     public string School => "FPT University";
     public string Role => "Backend Developer Student";
@@ -150,4 +150,3 @@ public class TuMiz : BackendDeveloper
 <p align="center">
   <b>💻 Happy Coding! 🚀</b>
 </p>
-  
